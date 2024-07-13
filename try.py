@@ -1,2 +1,4 @@
 print("hello world")
-print("this is new feature")
+print("this is new feature 'quiz app'")
+print("this is new feature 'calculator'")
+
